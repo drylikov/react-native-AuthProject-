@@ -1,0 +1,36 @@
+{
+  "name": "auth",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.24.1",
+    "react-test-renderer": "16.3.1"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "install": "^0.12.1",
+    "lodash": "^4.17.10",
+    "npm": "^6.2.0",
+    "prop-types": "^15.6.2",
+    "react": "16.3.1",
+    "react-native": "^0.55.4",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-navigation": "^2.5.5",
+    "react-router-native": "^4.3.0",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "rnpm": {
+    "assets": [
+      "./src/fonts/"
+    ]
+  }
+}

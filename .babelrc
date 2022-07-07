@@ -1,0 +1,10 @@
+{
+  "presets": ["react-native", "stage-0"],
+  "env": {
+    "development": {
+      "plugins": [
+        "transform-react-jsx-source"
+      ]
+    }
+  }
+}

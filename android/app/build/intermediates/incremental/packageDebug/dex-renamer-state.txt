@@ -1,0 +1,4 @@
+#Mon Jul 16 16:31:33 YEKT 2018
+base.0=B\:\\projects\\mobile\\auth\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=B\:\\projects\\mobile\\auth\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-0.55.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.55.4/react-native-0.55.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
